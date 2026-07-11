@@ -1,0 +1,19 @@
+{"feeds":[
+{"id":"npr-politics","account":"rss_npr_politics","display_name":"NPR Politics","source":"NPR","url":"https://feeds.npr.org/1003/rss.xml"},
+{"id":"pbs-politics","account":"rss_pbs_politics","display_name":"PBS NewsHour Politics","source":"PBS NewsHour","url":"https://www.pbs.org/newshour/feeds/rss/politics"},
+{"id":"guardian-us","account":"rss_guardian_us","display_name":"Guardian US","source":"The Guardian","url":"https://www.theguardian.com/us-news/rss"},
+{"id":"nyt-politics","account":"rss_nyt_politics","display_name":"New York Times Politics","source":"The New York Times","url":"https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"},
+{"id":"washpost-politics","account":"rss_washpost_politics","display_name":"Washington Post Politics","source":"The Washington Post","url":"https://feeds.washingtonpost.com/rss/politics"},
+{"id":"mother-jones","account":"rss_mother_jones","display_name":"Mother Jones","source":"Mother Jones","url":"https://www.motherjones.com/feed/"},
+{"id":"reason","account":"rss_reason","display_name":"Reason","source":"Reason","url":"https://reason.com/feed/"},
+{"id":"vox","account":"rss_vox","display_name":"Vox","source":"Vox","url":"https://www.vox.com/rss/index.xml"},
+{"id":"atlantic","account":"rss_atlantic","display_name":"The Atlantic","source":"The Atlantic","url":"https://www.theatlantic.com/feed/all/"},
+{"id":"new-yorker","account":"rss_new_yorker","display_name":"The New Yorker News","source":"The New Yorker","url":"https://www.newyorker.com/feed/news"},
+{"id":"lemonde-us","account":"rss_lemonde_us","display_name":"Le Monde United States","source":"Le Monde","url":"https://www.lemonde.fr/en/united-states/rss_full.xml"},
+{"id":"ars-technica","account":"rss_ars_technica","display_name":"Ars Technica","source":"Ars Technica","url":"https://feeds.arstechnica.com/arstechnica/index"},
+{"id":"science","account":"rss_science","display_name":"Science Magazine","source":"Science","url":"https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"},
+{"id":"nature","account":"rss_nature","display_name":"Nature","source":"Nature","url":"https://www.nature.com/nature.rss"},
+{"id":"amnesty","account":"rss_amnesty","display_name":"Amnesty International","source":"Amnesty International","url":"https://www.amnesty.org/en/latest/feed/"},
+{"id":"hrw-news","account":"rss_hrw_news","display_name":"Human Rights Watch","source":"Human Rights Watch","url":"https://www.hrw.org/rss/news"},
+{"id":"crisis-group","account":"rss_crisis_group","display_name":"International Crisis Group","source":"International Crisis Group","url":"https://www.crisisgroup.org/rss.xml"}
+]}

@@ -1,0 +1,17 @@
+rss_npr_politics
+rss_pbs_politics
+rss_guardian_us
+rss_nyt_politics
+rss_washpost_politics
+rss_mother_jones
+rss_reason
+rss_vox
+rss_atlantic
+rss_new_yorker
+rss_lemonde_us
+rss_ars_technica
+rss_science
+rss_nature
+rss_amnesty
+rss_hrw_news
+rss_crisis_group

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "mastodon-rss-analysis",
+  "repo": "mastodon-rss-analysis-stack-module",
+  "lifecycle": "active",
+  "dependencies": ["mastodon-rss-publisher"],
+  "smoke": "unsupported",
+  "smokeUnsupportedReason": "optional content-only RSS pack consumed by the self-hosted publisher",
+  "overlays": ["stack.config/mastodon-rss/feeds.d/analysis.json", "stack.config/mastodon/bootstrap-follows.d/rss-analysis.txt"],
+  "testAssets": []
+}
